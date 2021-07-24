@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Alt/workspace/Python/10academy/Week-2/abtest-mlops/mlruns/0/54d47d02007f4c4f8dfc269a9a6c1d82/artifacts
+end_time: 1627149383892
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+name: ''
+run_id: 54d47d02007f4c4f8dfc269a9a6c1d82
+run_uuid: 54d47d02007f4c4f8dfc269a9a6c1d82
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1627149383838
+status: 4
+tags: []
+user_id: Alt
